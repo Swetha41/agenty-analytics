@@ -11,7 +11,7 @@ Run Command:
 routes:
 
 Get all resumes: GET: http://localhost:8000/resume/allresumes    
-Get resume by id: GET: http://localhost:8000/resume/:resumeId
+Get resume by id: GET: http://localhost:8000/resume/:resumeId                                                                                                        
 Add new resume : POST: http://localhost:8000/resume/addresume
-Edit resume data: PUT: http://localhost:8000/resume/:resumeId
-Delete resume data: DELETE: http://localhost:8000/resume/:resumeId
+Edit resume data: PUT: http://localhost:8000/resume/:resumeId                                                                                                              
+Delete resume data: DELETE: http://localhost:8000/resume/:resumeId                                                                           
